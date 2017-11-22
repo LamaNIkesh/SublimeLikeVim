@@ -18,4 +18,7 @@ Simply copy contents of .vimrc into your .vimrc file. You should have a .vimrc f
 ```
 Run ls -all to see all the files in current directory. 
 ```
-
+After copying contents to your .vimrc files. Run
+```
+:PluginInstall
+```
