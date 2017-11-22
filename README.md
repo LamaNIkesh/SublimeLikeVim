@@ -34,4 +34,4 @@ In case of "The ycmd server SHUT DOWN" error. Run the following commands
 cd ~/.vim/bundle/YouCompleteMe
 ./install.py --clang-completer
 ```
-This should resolve the issue
+This should resolve the issue.
