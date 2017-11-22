@@ -26,6 +26,7 @@ After copying contents to your .vimrc files. Run
 ```
 :PluginInstall
 ```
+from .vimrc. This installs all the plugins necessary as mentioned in .vimrc file. 
 
 ##Troubleshooting
 In case of "The ycmd server SHUT DOWN" error. Run the following commands
