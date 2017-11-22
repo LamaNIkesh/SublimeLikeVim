@@ -28,7 +28,7 @@ After copying contents to your .vimrc files. Run
 ```
 from .vimrc. This installs all the plugins necessary as mentioned in .vimrc file. 
 
-##Troubleshooting
+## Troubleshooting
 In case of "The ycmd server SHUT DOWN" error. Run the following commands
 ```
 cd ~/.vim/bundle/YouCompleteMe
