@@ -15,9 +15,13 @@ Add the file to your user's home directory
 touch ~/.vimrc
 ```
 Simply copy contents of .vimrc into your .vimrc file. You should have a .vimrc file in your home directory. 
+Run 
 ```
-Run ls -all to see all the files in current directory. 
+ls -all 
 ```
+
+to see all the files in current directory. 
+
 After copying contents to your .vimrc files. Run
 ```
 :PluginInstall
