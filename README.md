@@ -12,5 +12,8 @@ git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 Add the file to your user's home directory
 touch ~/.vimrc
 ```
-
+Simply copy contents of .vimrc into your .vimrc file. You should have a .vimrc file in your home directory. 
+```
+Run ls -all to see all the files in current directory. 
+```
 
