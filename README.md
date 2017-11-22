@@ -21,8 +21,18 @@ Run
 ```
 ls -all 
 ```
-
 to see all the files in current directory. 
+
+For molokai theme, please download the theme,
+```
+git clone https://github.com/tomasr/molokai.git
+```
+Create a folder named 'colors' in .vim folder in home directory.
+```
+$~/.vim
+~/.vim$mkdir colors
+Copy molokai.vim file from the earlier download and copy in ~/.vim/colors/ folder 
+```
 
 After copying contents to your .vimrc files. Run
 ```
