@@ -1,4 +1,4 @@
-## SublimeLikeVim
+## Sublime theme for Vim editor
 ![sample](https://user-images.githubusercontent.com/13660762/33134736-6bf7eff6-cf98-11e7-9e7a-1eeccf4ad140.png)
 
 <a name="usage-linting"></a>
