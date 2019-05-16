@@ -29,13 +29,14 @@ git clone https://github.com/tomasr/molokai.git
 ```
 Create a folder named 'colors' in .vim folder in home directory.
 ```
-$~/.vim
-~/.vim$mkdir colors
+$ cd ~/.vim
+$ mkdir colors
 Copy molokai.vim file from the earlier download and copy in ~/.vim/colors/ folder 
 ```
 
 After copying contents to your .vimrc files. Run
 ```
+vim .vimrc
 :PluginInstall
 ```
 from .vimrc. This installs all the plugins necessary as mentioned in .vimrc file. 
